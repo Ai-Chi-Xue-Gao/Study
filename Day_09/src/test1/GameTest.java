@@ -19,6 +19,7 @@ public class GameTest {
             //判断r2的剩余血量
             if(r2.getBlood() == 0){
                 System.out.println(r1.getName()+"K.O了"+r2.getName());
+                System.out.println("恭喜你获得冠军");
                 break;
             }
 
