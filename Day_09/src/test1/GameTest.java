@@ -37,6 +37,7 @@ public class GameTest {
             else {
                 System.out.println("很遗憾你被淘汰了");
                 System.out.println("master很遗憾你被淘汰了");
+                System.out.println("hot-fix很遗憾你被淘汰了");
             }
         }
     }
