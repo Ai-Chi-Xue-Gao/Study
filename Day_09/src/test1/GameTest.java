@@ -22,6 +22,9 @@ public class GameTest {
                 System.out.println("恭喜你获得冠军");
                 break;
             }
+            else{
+                System.out.println("很遗憾你被淘汰了");
+            }
 
             //r2开始攻击r1
             r2.attack(r1);
